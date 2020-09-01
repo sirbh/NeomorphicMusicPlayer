@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd51dd94dd9749d40f421e0b6bc6b3a6",
+    "revision": "02dd4fd7c87110df5f3e4d9b3c66a110",
     "url": "/NeomorphicMusicPlayer/index.html"
   },
   {
-    "revision": "8f875f934a2040ea9f31",
+    "revision": "2b6beff3e89ee9a031ad",
     "url": "/NeomorphicMusicPlayer/static/css/main.797b7773.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NeomorphicMusicPlayer/static/js/2.4e1a86e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f875f934a2040ea9f31",
-    "url": "/NeomorphicMusicPlayer/static/js/main.701e4a31.chunk.js"
+    "revision": "2b6beff3e89ee9a031ad",
+    "url": "/NeomorphicMusicPlayer/static/js/main.70b1f422.chunk.js"
   },
   {
     "revision": "1488626bbabc31c5d501",
