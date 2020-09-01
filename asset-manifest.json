@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/NeomorphicMusicPlayer/static/css/main.797b7773.chunk.css",
+    "main.js": "/NeomorphicMusicPlayer/static/js/main.33e6d3d5.chunk.js",
+    "main.js.map": "/NeomorphicMusicPlayer/static/js/main.33e6d3d5.chunk.js.map",
+    "runtime-main.js": "/NeomorphicMusicPlayer/static/js/runtime-main.f1d228c8.js",
+    "runtime-main.js.map": "/NeomorphicMusicPlayer/static/js/runtime-main.f1d228c8.js.map",
+    "static/js/2.4e1a86e1.chunk.js": "/NeomorphicMusicPlayer/static/js/2.4e1a86e1.chunk.js",
+    "static/js/2.4e1a86e1.chunk.js.map": "/NeomorphicMusicPlayer/static/js/2.4e1a86e1.chunk.js.map",
+    "index.html": "/NeomorphicMusicPlayer/index.html",
+    "precache-manifest.9c0a0120867c884a1b062834a992908b.js": "/NeomorphicMusicPlayer/precache-manifest.9c0a0120867c884a1b062834a992908b.js",
+    "service-worker.js": "/NeomorphicMusicPlayer/service-worker.js",
+    "static/css/main.797b7773.chunk.css.map": "/NeomorphicMusicPlayer/static/css/main.797b7773.chunk.css.map",
+    "static/js/2.4e1a86e1.chunk.js.LICENSE.txt": "/NeomorphicMusicPlayer/static/js/2.4e1a86e1.chunk.js.LICENSE.txt",
+    "static/media/Airplanes.mp3": "/NeomorphicMusicPlayer/static/media/Airplanes.250e575b.mp3",
+    "static/media/Airplanes.jpg": "/NeomorphicMusicPlayer/static/media/Airplanes.86d81046.jpg",
+    "static/media/Dooriyan.jpg": "/NeomorphicMusicPlayer/static/media/Dooriyan.394bb312.jpg",
+    "static/media/Dooriyan.mp3": "/NeomorphicMusicPlayer/static/media/Dooriyan.bd6e425a.mp3",
+    "static/media/Metallica.mp3": "/NeomorphicMusicPlayer/static/media/Metallica.722e321e.mp3",
+    "static/media/Metallica.jpg": "/NeomorphicMusicPlayer/static/media/Metallica.d10ba754.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1d228c8.js",
+    "static/js/2.4e1a86e1.chunk.js",
+    "static/css/main.797b7773.chunk.css",
+    "static/js/main.33e6d3d5.chunk.js"
+  ]
+}
