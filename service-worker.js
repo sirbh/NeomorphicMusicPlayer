@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NeomorphicMusicPlayer/precache-manifest.9c0a0120867c884a1b062834a992908b.js"
+  "/NeomorphicMusicPlayer/precache-manifest.025c7ad08068c3ab9b09c347962ae258.js"
 );
 
 self.addEventListener('message', (event) => {

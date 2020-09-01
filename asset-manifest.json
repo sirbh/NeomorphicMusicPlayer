@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NeomorphicMusicPlayer/static/css/main.797b7773.chunk.css",
-    "main.js": "/NeomorphicMusicPlayer/static/js/main.33e6d3d5.chunk.js",
-    "main.js.map": "/NeomorphicMusicPlayer/static/js/main.33e6d3d5.chunk.js.map",
+    "main.js": "/NeomorphicMusicPlayer/static/js/main.701e4a31.chunk.js",
+    "main.js.map": "/NeomorphicMusicPlayer/static/js/main.701e4a31.chunk.js.map",
     "runtime-main.js": "/NeomorphicMusicPlayer/static/js/runtime-main.f1d228c8.js",
     "runtime-main.js.map": "/NeomorphicMusicPlayer/static/js/runtime-main.f1d228c8.js.map",
     "static/js/2.4e1a86e1.chunk.js": "/NeomorphicMusicPlayer/static/js/2.4e1a86e1.chunk.js",
     "static/js/2.4e1a86e1.chunk.js.map": "/NeomorphicMusicPlayer/static/js/2.4e1a86e1.chunk.js.map",
     "index.html": "/NeomorphicMusicPlayer/index.html",
-    "precache-manifest.9c0a0120867c884a1b062834a992908b.js": "/NeomorphicMusicPlayer/precache-manifest.9c0a0120867c884a1b062834a992908b.js",
+    "precache-manifest.025c7ad08068c3ab9b09c347962ae258.js": "/NeomorphicMusicPlayer/precache-manifest.025c7ad08068c3ab9b09c347962ae258.js",
     "service-worker.js": "/NeomorphicMusicPlayer/service-worker.js",
     "static/css/main.797b7773.chunk.css.map": "/NeomorphicMusicPlayer/static/css/main.797b7773.chunk.css.map",
     "static/js/2.4e1a86e1.chunk.js.LICENSE.txt": "/NeomorphicMusicPlayer/static/js/2.4e1a86e1.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.f1d228c8.js",
     "static/js/2.4e1a86e1.chunk.js",
     "static/css/main.797b7773.chunk.css",
-    "static/js/main.33e6d3d5.chunk.js"
+    "static/js/main.701e4a31.chunk.js"
   ]
 }
